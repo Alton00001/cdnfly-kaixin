@@ -24,5 +24,5 @@ v5.1.16被控
 
 curl -fsSL https://github.com/Alton00001/cdnfly-kaixin/raw/main/agent.sh -o agent.sh  && chmod +x agent.sh && ./agent.sh --master-ver v5.1.13 --master-ip  --es-ip  --es-pwd 
 
-
-
+# 详细教程链接
+https://www.thsink.com/notes/1165/
