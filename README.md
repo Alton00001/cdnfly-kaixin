@@ -26,3 +26,6 @@ curl -fsSL https://github.com/Alton00001/cdnfly-kaixin/raw/main/agent.sh -o agen
 
 # 详细教程链接
 https://www.thsink.com/notes/1165/
+
+# 详细的cdn使用方案
+https://www.zhujigo.com/1144.html
